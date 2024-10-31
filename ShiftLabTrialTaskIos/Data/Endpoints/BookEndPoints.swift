@@ -17,7 +17,7 @@ enum BookEndpoints: Endpoint {
     var url: String {
         switch self {
         case .fetchBooks:
-            return "https://fakerapi.it/api/v1/books"
+            return "API_BASE_URL"
         }
     }
 }
