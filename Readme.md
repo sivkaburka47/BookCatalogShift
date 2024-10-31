@@ -11,7 +11,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone <https://github.com/sivkaburka47/BookCatalogShift.git>
+    git clone https://github.com/sivkaburka47/BookCatalogShift.git
     cd ShiftLabTrialTaskIos
     ```
 
